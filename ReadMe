@@ -1,0 +1,4 @@
+NODE_ENV = development
+PORT = 8000
+MONGO_URL = mongodb+srv://gus199:gus199@cluster0.ywtioyv.mongodb.net/?retryWrites=true&w=majority
+JWT_SECRET = supersecret
