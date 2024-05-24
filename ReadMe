@@ -2,3 +2,5 @@ NODE_ENV = development
 PORT = 8000
 MONGO_URL = mongodb+srv://gus199:gus199@cluster0.ywtioyv.mongodb.net/?retryWrites=true&w=majority
 JWT_SECRET = supersecret
+use the 2nd MONGO_URL
+MONGO_URL = mongodb+srv://gus:gus2018@cluster0.i2cx8hg.mongodb.net/
